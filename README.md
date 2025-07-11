@@ -1,43 +1,4 @@
-<! DOCTYPE html>  
-<html>  
-    <head>  
-    <meta charset="utf-8">  
-    <title>  
-         Calculator using HTML Example  
-    </title>  
-    <link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet">  
-    <!-- CSS property to create interactive  
-        calculator interface -->  
-    <style>  
-body    
-{    
-background-color: tan;    
-}    
-.box    
-{    
-background-color: #3d4543;    
-height: 300px;    
-width: 270px;    
-border-radius: 10px;    
-position: relative;    
-top: 80px;    
-left: 40%;    
-}   
-.display    
-{    
-background-color: #222;    
-width: 220px;    
-position: relative;    
-left: 15px;    
-top: 20px;    
-height: 40px;    
-}    
-.display input    
-{    
-position: relative;    
-left: 2px;    
-top: 2px;   …
-[1:10 pm, 11/7/2025] 💫Chinnu❤️: <!DOCTYPE html>
+<!DOCTYPE html>
 <html>  
     <head>  
     <title> Calculator using HTML</title>  
@@ -226,4 +187,7 @@ input[type=text] {
     </div>  
   </div>  
 </body>  
-</html># calculator
+</html>
+
+
+   
